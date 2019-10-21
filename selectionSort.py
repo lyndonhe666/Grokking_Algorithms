@@ -20,3 +20,6 @@ def selectionSort(arr):
 
 arr = [4,2,5,9,3]
 selectionSort(arr)
+
+
+
